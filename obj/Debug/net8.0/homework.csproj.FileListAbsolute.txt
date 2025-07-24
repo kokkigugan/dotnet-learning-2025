@@ -1,0 +1,14 @@
+C:\Users\DB574WX\source\repos\homework\bin\Debug\net8.0\homework.exe
+C:\Users\DB574WX\source\repos\homework\bin\Debug\net8.0\homework.deps.json
+C:\Users\DB574WX\source\repos\homework\bin\Debug\net8.0\homework.runtimeconfig.json
+C:\Users\DB574WX\source\repos\homework\bin\Debug\net8.0\homework.dll
+C:\Users\DB574WX\source\repos\homework\bin\Debug\net8.0\homework.pdb
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\homework.AssemblyInfoInputs.cache
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\homework.AssemblyInfo.cs
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\homework.dll
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\refint\homework.dll
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\homework.pdb
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\homework.genruntimeconfig.cache
+C:\Users\DB574WX\source\repos\homework\obj\Debug\net8.0\ref\homework.dll
